@@ -10,6 +10,7 @@ int main(){
     cin.get();
     cin.get();
     cin.get();
+    
     srand(time(0));
     int x =rand()%9;
     if(x==0) cout<<"You will get A in this 261102.";

@@ -91,6 +91,5 @@ int main(){
 	}
 	cout << "------------ Turn end -------------------\n";
 
-	
 	checkWinner(playerScore,yugiScore);
 }
