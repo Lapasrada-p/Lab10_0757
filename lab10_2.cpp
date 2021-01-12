@@ -14,11 +14,11 @@ int drawCard(void){
 
 int calScore(int x,int y,int z){
 	int sum;
-	if(x==10||x==11||x==12){
+	if(x==11||x==12||x==13){
 	    x=10;
-	}else if(y==10||y==11||y==12){
+	}else if(y==11||y==12||y==13){
 	    y=10;
-	}else if(z==10||z==11||z==12){
+	}else if(z==11||z==12||z==13){
 	    z=10;
 	}
 	sum =x+y+z;
